@@ -2,3 +2,13 @@
 This repository is Docker tutorial published by O'REILLY.
 # Book
 ## [Docker](https://www.oreilly.co.jp/books/9784873117768/)
+# Versions
+
+```sh
+$ docker --version
+Docker version 17.03.0-ce, build 60ccb22
+$ docker-compose --version
+docker-compose version 1.11.2, build dfed245
+$ docker-machine --version
+docker-machine version 0.10.0, build 76ed2a6
+```
