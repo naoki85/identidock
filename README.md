@@ -12,3 +12,10 @@ docker-compose version 1.11.2, build dfed245
 $ docker-machine --version
 docker-machine version 0.10.0, build 76ed2a6
 ```
+# Use images
+## Python
+[https://hub.docker.com/_/python/](https://hub.docker.com/_/python/)
+## amouat/dnmonster
+[https://hub.docker.com/r/amouat/dnmonster/](https://hub.docker.com/r/amouat/dnmonster/)
+## Redis
+[https://hub.docker.com/_/redis/](https://hub.docker.com/_/redis/)
