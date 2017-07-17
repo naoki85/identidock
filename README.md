@@ -1,5 +1,6 @@
 # identidock
-This repository is Docker tutorial published by O'REILLY.
+This repository is Docker tutorial published by O'REILLY.  
+identidock is a simple identicon server based on monsterid made by Kevin Gaudin.
 # Book
 ## [Docker](https://www.oreilly.co.jp/books/9784873117768/)
 # Versions
@@ -19,3 +20,5 @@ docker-machine version 0.10.0, build 76ed2a6
 [https://hub.docker.com/r/amouat/dnmonster/](https://hub.docker.com/r/amouat/dnmonster/)
 ## Redis
 [https://hub.docker.com/_/redis/](https://hub.docker.com/_/redis/)
+# My Docker Hub Account
+## [naoki85](https://hub.docker.com/u/naoki85/)
